@@ -1,0 +1,7 @@
+myenv
+deployment_documentation
+src.egg-info
+artifacts
+build
+dist
+logs
